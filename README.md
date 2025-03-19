@@ -19,8 +19,6 @@ Welcome to my GitHub profile! I'm passionate about technology, data science, and
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kuszynski&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
-- 🌐 [Portfolio Website](https://yourwebsite.com)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
 - 💼 [LinkedIn](https://www.linkedin.com/in/michal-kuszynski-6b047856/)
 
 Feel free to explore my repositories and contribute to my projects! 🚀
